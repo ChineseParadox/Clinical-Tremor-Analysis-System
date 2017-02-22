@@ -1,8 +1,9 @@
 # Clinical-Tremor-Analysis-System
-Authors: Justin Lee, Hailey Cunningham, Anne Myung (SEAS class of 2013)
-P.I.: Dr. David Nagel, Dr. Jermone Danoff
-Collaborators: Mike Glicksman, Colby Carlone, Anthony Garber
+<h1>People:</h1>
+<p>Authors: Justin Lee, Hailey Cunningham, Anne Myung (SEAS class of 2013)<br \>
+PIs: Dr. David Nagel, Dr. Jermone Danoff<br \>
+Collaborators: Mike Glicksman, Colby Carlone, Anthony Garber</p>
 
-Institutions:
-School of Engineering and Applied Science, the George Washington University
-Milken Institute School of Public Health, the George Washington University
+<h1>Institutions:</h1>
+<p>School of Engineering and Applied Science, the George Washington University<br \>
+Milken Institute School of Public Health, the George Washington University</p>
